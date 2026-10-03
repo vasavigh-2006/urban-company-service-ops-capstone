@@ -16,6 +16,8 @@ The work covers:
 
 https://public.tableau.com/app/profile/vasavi.s.puranik/viz/DashboardoftheCapstoneProject/Dashboard1?publish=yes
 
+> **Note:** After opening the Tableau dashboard link, the dashboard may initially appear in a smaller view. Please click **“View on Tableau Public”** and then use the **full-screen option** to view the dashboard properly.
+
 ## Repository Contents
 
 ### Part A — Data Setup and SQL
