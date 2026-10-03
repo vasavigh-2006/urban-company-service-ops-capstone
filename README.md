@@ -14,7 +14,7 @@ The work covers:
 
 ## Tableau Public Dashboard
 
-[View the live Tableau Public dashboard](https://public.tableau.com/app/profile/vasavi.s.puranik/viz/DashboardoftheCapstoneProject/Dashboard1?publish=yes)
+https://public.tableau.com/app/profile/vasavi.s.puranik/viz/DashboardoftheCapstoneProject/Dashboard1?publish=yes
 
 ## Repository Contents
 
