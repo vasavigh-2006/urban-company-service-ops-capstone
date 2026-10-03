@@ -1,0 +1,4 @@
+# Verification of generated database
+# Categories: 7
+# Raw partners_import rows: 52
+# Bookings rows: 60
